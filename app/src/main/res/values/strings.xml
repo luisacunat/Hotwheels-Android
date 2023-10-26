@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Hot Wheels</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Vehicles Strings -->
+    <string name="brand_placeholder">Brand</string>
+    <string name="model_placeholder">Model</string>
+    <string name="label_information">Information</string>
+    <string name="year_label">Year: </string>
+    <string name="year_placeholder">2000</string>
+    <string name="doors_label">Doors: </string>
+    <string name="label_type">Type</string>
+    <string name="type_label">Type: </string>
+    <string name="placeholder">…</string>
+    <string name="brand_country_label">Country: </string>
+
+
+</resources>
